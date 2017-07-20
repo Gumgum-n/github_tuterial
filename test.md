@@ -1,4 +1,5 @@
 # git hub
+- git status
 - git add .
 - git commit -m "コミットメッセージ"
 - git log
